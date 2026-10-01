@@ -1,0 +1,5 @@
+pandas
+numpy
+konlpy
+JPype1
+matplotlib
